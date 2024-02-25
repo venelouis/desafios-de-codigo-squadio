@@ -3,8 +3,8 @@
 <h2> Autorização de Uso concedida</h2>
 <h3> Salve uma cópia e utilize os modelos para desenvolver suas respostas!</h3>
 <a href="https://github.com/venelouis/desafios-de-codigo-squadio/fork">
-<img alt="Fork" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-blue.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-*Este repositório foi elaborado apra ajudar todos os participantes do bootcamp a entender e realizar os desafios do mesmo. Não simplesmente copie e cole, exercite sua mente, tente entender o que foi produzido, e se possível tente resolver de outra forma e/ou melhor este código (crie uma issue, pull request, etc). Inspirado pelo: <a href="https://discord.com/channels/689887036110274618/1210779218812870796"> canal: desafios-de-projeto no servidor do Discord da Dio </a> veja também o fórum do bootcamp.
+<img alt="Fork" title="Fork Button" src="https://shields.io/badge/-Clique%20AQUI%20para%20realizar%20FORK-blue.svg?&style=for-the-badge&logo=github&logoColor=white"/></a><br>
+*Este repositório foi elaborado apra ajudar todos os participantes do bootcamp a entender e realizar os desafios do mesmo. Não simplesmente copie e cole, exercite sua mente, tente entender o que foi produzido, e se possível tente resolver de outra forma e/ou melhor este código (crie uma issue, pull request, etc). Inspirado pelo: <a href="https://discord.com/channels/689887036110274618/1210779218812870796"> canal: desafios-de-projeto no servidor do Discord da Dio. </a>
 
 <h2> Detalhes da formação </h2>
 Num mundo data-driven quem sabe manipular e apresentar dados comanda!
