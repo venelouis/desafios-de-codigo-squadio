@@ -127,5 +127,3 @@ resultado = prever_afinidade_elemental(intensidade_feitico, componente_raro_feit
 
 # Saída da previsão
 print(resultado)
-
-
